@@ -1,0 +1,15 @@
+D:\ST\хочу стать умней\TASK_41\TASK_41\bin\Debug\net7.0\TASK_41.exe
+D:\ST\хочу стать умней\TASK_41\TASK_41\bin\Debug\net7.0\TASK_41.deps.json
+D:\ST\хочу стать умней\TASK_41\TASK_41\bin\Debug\net7.0\TASK_41.runtimeconfig.json
+D:\ST\хочу стать умней\TASK_41\TASK_41\bin\Debug\net7.0\TASK_41.dll
+D:\ST\хочу стать умней\TASK_41\TASK_41\bin\Debug\net7.0\TASK_41.pdb
+D:\ST\хочу стать умней\TASK_41\TASK_41\obj\Debug\net7.0\TASK_41.csproj.AssemblyReference.cache
+D:\ST\хочу стать умней\TASK_41\TASK_41\obj\Debug\net7.0\TASK_41.GeneratedMSBuildEditorConfig.editorconfig
+D:\ST\хочу стать умней\TASK_41\TASK_41\obj\Debug\net7.0\TASK_41.AssemblyInfoInputs.cache
+D:\ST\хочу стать умней\TASK_41\TASK_41\obj\Debug\net7.0\TASK_41.AssemblyInfo.cs
+D:\ST\хочу стать умней\TASK_41\TASK_41\obj\Debug\net7.0\TASK_41.csproj.CoreCompileInputs.cache
+D:\ST\хочу стать умней\TASK_41\TASK_41\obj\Debug\net7.0\TASK_41.dll
+D:\ST\хочу стать умней\TASK_41\TASK_41\obj\Debug\net7.0\refint\TASK_41.dll
+D:\ST\хочу стать умней\TASK_41\TASK_41\obj\Debug\net7.0\TASK_41.pdb
+D:\ST\хочу стать умней\TASK_41\TASK_41\obj\Debug\net7.0\TASK_41.genruntimeconfig.cache
+D:\ST\хочу стать умней\TASK_41\TASK_41\obj\Debug\net7.0\ref\TASK_41.dll
